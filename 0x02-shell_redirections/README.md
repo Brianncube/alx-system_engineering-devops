@@ -1,1 +1,1 @@
-Display the last 10 lines of aa file
+display the first 10 lines of a file
