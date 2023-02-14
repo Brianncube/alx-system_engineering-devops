@@ -1,1 +1,1 @@
-Create a script that creates an alia
+Create a script that prints hello user
